@@ -12,7 +12,7 @@
 - [ ] ¿Cuál es la película más larga del dataset en términos de duración?
 - [ ] ¿Cuáles son las películas con una puntuación de 8 o más en el dataset?
 - [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
-- [ ] ¿Cuáles son las películas del género principal "Comedia" en el dataset?
+- [ ] ¿Cuáles son las películas del género principal "Comedia" en el dataset y su puntuacion?
 - [ ] ¿Cuál es la película más recientemente lanzada en el dataset?
 - [ ] ¿Cuáles son las películas con más de 50.000 votos en el dataset?
 - [ ] ¿Cuál es la película con la mayor puntuación en el dataset?
