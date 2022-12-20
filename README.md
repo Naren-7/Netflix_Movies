@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Movies</h1> 
+<h1 align="center">Netflix</h1> 
 <img align="right" alt="coding" width="400" src="https://wallpapers.com/images/high/netflix-aesthetic-popcorn-z16yswlqxnwom6wk.webp">
 
 
