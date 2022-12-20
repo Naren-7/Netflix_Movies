@@ -7,26 +7,26 @@
 **Este proyecto de visualización de datos se centra en analizar las películas disponibles en Netflix. Los objetivos del proyecto son:**
 
 
-- [ ] ¿Cuál es el título de la película más votada en el dataset?
-- [ ] ¿Cuál es el género principal más representativo en el dataset?
-- [ ] ¿Cuál es la película más larga del dataset en términos de duración?
-- [ ] ¿Cuáles son las películas con una puntuación de 8 o más en el dataset?
-- [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
-- [ ] ¿Cuáles son las películas del género principal "Comedia" en el dataset y su puntuacion?
-- [ ] ¿Cuál es la película más recientemente lanzada en el dataset?
-- [ ] ¿Cuáles son las películas con más de 50.000 votos en el dataset?
-- [ ] ¿Cuál es la película con la mayor puntuación en el dataset?
-- [ ] ¿Cuál es la película con la menor puntuación en el dataset?
-- [ ] ¿Cuáles son las películas lanzadas entre 2000 y 2010 en el dataset?
-- [ ] ¿Cuáles son las películas con una duración de más de 2 horas en el dataset?
-- [ ] ¿Cuáles son las películas con una puntuación promedio de 7 o más en el dataset?
-- [ ] ¿Cuáles son las películas con menos de 10.000 votos en el dataset?
-- [ ] ¿Cuáles son las películas del género principal "Acción" en el dataset?
-- [ ] ¿Cuáles son los regiones con más lazamientos?
-- [ ] ¿Cuál es la película más antigua del dataset en términos de año de lanzamiento?
-- [ ] ¿Cuáles son las películas con una puntuación de 7.6 o menos en el dataset?
-- [ ] ¿Cuál es la película con la duración más corta del dataset?
-- [ ] ¿Cuál es la película con el mayor número de votos en el dataset?
+1. [ ] ¿Cuál es el título de la película más votada en el dataset?
+2. [ ] ¿Cuál es el género principal más representativo en el dataset?
+3. [ ] ¿Cuál es la película más larga del dataset en términos de duración?
+4. [ ] ¿Cuáles son las películas con una puntuación de 8 o más en el dataset?
+5. [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
+6. [ ] ¿Cuáles son las películas del género principal "Comedia" en el dataset y su puntuacion?
+7. [ ] ¿Cuál es la película más recientemente lanzada en el dataset?
+8. [ ] ¿Cuáles son las películas con más de 50.000 votos en el dataset?
+9. [ ] ¿Cuál es la película con la mayor puntuación en el dataset?
+10. [ ] ¿Cuál es la película con la menor puntuación en el dataset?
+11. [ ] ¿Cuáles son las películas lanzadas entre 2000 y 2010 en el dataset?
+12. [ ] ¿Cuáles son las películas con una duración de más de 2 horas en el dataset?
+13. [ ] ¿Cuáles son las películas con una puntuación promedio de 7 o más en el dataset?
+14. [ ] ¿Cuáles son las películas con menos de 10.000 votos en el dataset?
+15. [ ] ¿Cuáles son las películas del género principal "Acción" en el dataset?
+16. [ ] ¿Cuáles son los regiones con más lazamientos?
+17. [ ] ¿Cuál es la película más antigua del dataset en términos de año de lanzamiento?
+18. [ ] ¿Cuáles son las películas con una puntuación de 7.6 o menos en el dataset?
+19. [ ] ¿Cuál es la película con la duración más corta del dataset?
+20. [ ] ¿Cuál es la película con el mayor número de votos en el dataset?
 
 ## Para llevar a cabo este proyecto, se ralizaran los siguientes pasos:
 
