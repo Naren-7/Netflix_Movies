@@ -22,9 +22,9 @@
 - [ ] ¿Cuáles son las películas con una puntuación promedio de 7 o más en el dataset?
 - [ ] ¿Cuáles son las películas con menos de 10.000 votos en el dataset?
 - [ ] ¿Cuáles son las películas del género principal "Acción" en el dataset?
-- [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Another Production"?
+- [ ] ¿Cuáles son los regiones con más lazamientos?
 - [ ] ¿Cuál es la película más antigua del dataset en términos de año de lanzamiento?
-- [ ] ¿Cuáles son las películas con una puntuación de 6 o menos en el dataset?
+- [ ] ¿Cuáles son las películas con una puntuación de 7.6 o menos en el dataset?
 - [ ] ¿Cuál es la película con la duración más corta del dataset?
 - [ ] ¿Cuál es la película con el mayor número de votos en el dataset?
 
