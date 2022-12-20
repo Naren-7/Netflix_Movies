@@ -1,33 +1,36 @@
-# Netflix Movies
+<h1 align="center">Netflix Movies</h1> 
+<img align="right" alt="coding" width="400" src="https://wallpapers.com/images/high/netflix-aesthetic-popcorn-z16yswlqxnwom6wk.webp">
+
 
 > Netflix es una empresa de servicios de streaming de video en línea que **ofrece una amplia variedad de películas**, programas de televisión y documentales a través de una suscripción mensual. Netflix comenzó como una empresa de alquiler de DVDs por correo, pero ha evolucionado para convertirse en uno de los principales servicios de streaming de video en línea a nivel mundial. Actualmente, Netflix cuenta con millones de suscriptores en todo el mundo y ofrece contenido original y licenciado de todo el mundo. Además de proporcionar contenido de streaming, Netflix también produce y distribuye su propio contenido original, incluyendo series de televisión y películas que han obtenido éxito en todo el mundo.
 
 **Este proyecto de visualización de datos se centra en analizar las películas disponibles en Netflix. Los objetivos del proyecto son:**
 
-- ¿Cuál es el título de la película más votada en el dataset?
-- ¿Cuál es el género principal más representativo en el dataset?
-- ¿Cuál es la película más larga del dataset en términos de duración?
-- ¿Cuáles son las películas con una puntuación de 8 o más en el dataset?
-- ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
-- ¿Cuáles son las películas del género principal "Comedia" en el dataset?
-- ¿Cuál es la película más recientemente lanzada en el dataset?
-- ¿Cuáles son las películas con más de 50.000 votos en el dataset?
-- ¿Cuál es la película con la mayor puntuación en el dataset?
-- ¿Cuál es la película con la menor puntuación en el dataset?
-- ¿Cuáles son las películas lanzadas entre 2000 y 2010 en el dataset?
-- ¿Cuáles son las películas con una duración de más de 2 horas en el dataset?
-- ¿Cuáles son las películas con una puntuación promedio de 7 o más en el dataset?
-- ¿Cuáles son las películas con menos de 10.000 votos en el dataset?
-- ¿Cuáles son las películas del género principal "Acción" en el dataset?
-- ¿Cuáles son las películas producidas por la compañía de producción principal "Another Production"?
-- ¿Cuál es la película más antigua del dataset en términos de año de lanzamiento?
-- ¿Cuáles son las películas con una puntuación de 6 o menos en el dataset?
-- ¿Cuál es la película con la duración más corta del dataset?
-- ¿Cuál es la película con el mayor número de votos en el dataset?
+
+- [ ] ¿Cuál es el título de la película más votada en el dataset?
+- [ ] ¿Cuál es el género principal más representativo en el dataset?
+- [ ] ¿Cuál es la película más larga del dataset en términos de duración?
+- [ ] ¿Cuáles son las películas con una puntuación de 8 o más en el dataset?
+- [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
+- [ ] ¿Cuáles son las películas del género principal "Comedia" en el dataset?
+- [ ] ¿Cuál es la película más recientemente lanzada en el dataset?
+- [ ] ¿Cuáles son las películas con más de 50.000 votos en el dataset?
+- [ ] ¿Cuál es la película con la mayor puntuación en el dataset?
+- [ ] ¿Cuál es la película con la menor puntuación en el dataset?
+- [ ] ¿Cuáles son las películas lanzadas entre 2000 y 2010 en el dataset?
+- [ ] ¿Cuáles son las películas con una duración de más de 2 horas en el dataset?
+- [ ] ¿Cuáles son las películas con una puntuación promedio de 7 o más en el dataset?
+- [ ] ¿Cuáles son las películas con menos de 10.000 votos en el dataset?
+- [ ] ¿Cuáles son las películas del género principal "Acción" en el dataset?
+- [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Another Production"?
+- [ ] ¿Cuál es la película más antigua del dataset en términos de año de lanzamiento?
+- [ ] ¿Cuáles son las películas con una puntuación de 6 o menos en el dataset?
+- [ ] ¿Cuál es la película con la duración más corta del dataset?
+- [ ] ¿Cuál es la película con el mayor número de votos en el dataset?
 
 ## Para llevar a cabo este proyecto, se ralizaran los siguientes pasos:
 
-1. **Obtención de los datos:** Los datos utilizados en este proyecto han sido obtenidos a través de una API o de una fuente externa como [Kaggle](https://www.kaggle.com/datasets/thedevastator/the-ultimate-netflix-tv-shows-and-movies-dataset).
+1. **Obtención de los datos:** Los datos utilizados en este proyecto han sido obtenidos a través de una API o de una fuente externa como [Kaggle](https://www.kaggle.com/datasets/thedevastator/the-ultimate-netflix-tv-shows-and-movies-dataset), _el archivo .CSV se encuentra en este repositorio._
 
 2. **Limpieza y preparación de los datos:** Los datos han sido limpiados y preparados para su análisis, eliminando valores faltantes o duplicados y transformando los datos según sea necesario.
 
@@ -40,6 +43,13 @@
 6. **Presentación y comunicación de los resultados:** Los resultados del análisis se  presentaran y comunicaran de manera clara y concisa, ya sea a través de un informe escrito o de una presentación visual.
 
 ## Como usar 
-```shell
-git clone 
+
+Clonar repositorio con **HTTPS**
+```bash
+git clone https://github.com/Naren-7/Netflix_Movies.git
+```
+
+Clonar repositorio con **SSH**
+```bash
+git clone git@github.com:Naren-7/Netflix_Movies.git
 ```
