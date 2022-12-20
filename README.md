@@ -6,7 +6,7 @@
 
 **Este proyecto de visualización de datos se centra en analizar las películas disponibles en Netflix. Los objetivos del proyecto son:**
 
-
+0. [ ] ¿Cuáles son los generos más populares?
 1. [ ] ¿Cuál es el título de la película más votada en el dataset?
 2. [ ] ¿Cuál es el género principal más representativo en el dataset?
 3. [ ] ¿Cuál es la película más larga del dataset en términos de duración?
