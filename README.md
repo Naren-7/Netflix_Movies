@@ -8,7 +8,6 @@
 
 0. [ ] ¿Cuáles son los generos más populares?
 1. [ ] ¿Cuál es el título de la película más votada en el dataset?
-2. [ ] ¿Cuál es el género principal más representativo en el dataset?
 3. [ ] ¿Cuál es la película más larga del dataset en términos de duración?
 4. [ ] ¿Cuáles son las películas con una puntuación de 8 o más en el dataset?
 5. [ ] ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
@@ -27,6 +26,8 @@
 18. [ ] ¿Cuáles son las películas con una puntuación de 7.6 o menos en el dataset?
 19. [ ] ¿Cuál es la película con la duración más corta del dataset?
 20. [ ] ¿Cuál es la película con el mayor número de votos en el dataset?
+
+> Nota: Exite otro dataset simililar a [**Pelicualas de Netflix**](https://github.com/Naren-7/Netflix_Movies/blob/main/Data_Netflix/Best%20Movies%20Netflix.csv),  la diferencia es que trata de  [**Series de Netflix**](https://github.com/Naren-7/Netflix_Movies/blob/main/Data_Netflix/Best%20Shows%20Netflix.csv)
 
 ## Para llevar a cabo este proyecto, se ralizaran los siguientes pasos:
 
