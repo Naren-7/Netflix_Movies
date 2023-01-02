@@ -13,20 +13,15 @@
 4. [x] ¿Cuáles son las películas con una puntuación de 8.5 o más en el dataset?
 5. [x] ¿Cuáles son las películas producidas por la compañía de producción principal "Main Production"?
 6. [x] ¿Cuáles son las películas del género principal "Comedia" en el dataset y su puntuacion?
-7. [ ] ¿Cuál es la película más recientemente lanzada en el dataset?
-8. [ ] ¿Cuáles son las películas con más de 50.000 votos en el dataset?
-9. [ ]  ¿Cuál ha sido la película más votada en cada género principal en cada año desde el año de lanzamiento hasta la actualidad?
-10. [ ] ¿Cuál ha sido el género principal más popular en cada año desde el año de lanzamiento hasta la actualidad en función del número de votos recibidos?
-11. [ ] ¿Cuáles han sido las producciones principales con el mayor número de películas lanzadas en cada género principal en cada año desde el año de      lanzamiento hasta la actualidad?  
-12.  [ ]  ¿Cuál ha sido la producción principal más exitosa en términos de puntuación media en cada género principal?
-13.  [ ]  ¿Cuál ha sido el título de la película con la puntuación más alta en cada año desde el año de lanzamiento hasta la actualidad?
-14.  [ ]  ¿Hay alguna relación entre el año de lanzamiento y la puntuación de la película en función del número de votos recibidos?
-15.  [ ]  ¿Cuál ha sido el género principal con la mayor puntuación media en cada año desde el año de lanzamiento hasta la actualidad?
-16.  [ ]  ¿Hay algún patrón en la duración de las películas con puntuaciones más altas en cada género principal?
-17.  [ ]  ¿Cuál ha sido la película más votada en cada producción principal en cada año desde el año de lanzamiento hasta la actualidad?
-18.  [ ]  ¿Cuál ha sido la producción principal con el mayor número de películas de más de dos horas de duración en cada género principal?
+7. [x] ¿Cuál es la película más recientemente lanzada en el dataset?
+8. [x] ¿Cuáles son las películas con un numero de votos de 500.000 hasta 1.000.000 ?
+9. [x]  ¿Cuál ha sido la película más votada en cada género principal en cada año desde el año de lanzamiento hasta la actualidad?
+10. [x] ¿Cuál ha sido el género principal más popular en cada año desde el año de lanzamiento hasta la actualidad en función del número de votos recibidos?
+11. [x] ¿Cuáles han sido las producciones principales con el mayor número de películas lanzadas en cada género principal en cada año desde el año de      lanzamiento hasta la actualidad?  
+12.  [x]  ¿Cuál ha sido la producción principal más exitosa en términos de puntuación media en cada género principal?
+13.  [x]  ¿Cuál ha sido el título de la película con la puntuación más alta en cada año desde el año de lanzamiento hasta la actualidad?
+14.  [x]  ¿Hay alguna relación entre el año de lanzamiento y la puntuación de la película en función del número de votos recibidos?
 
-> Nota: Exite otro dataset simililar a [**Pelicualas de Netflix**](https://github.com/Naren-7/Netflix_Movies/blob/main/Data_Netflix/Best%20Movies%20Netflix.csv),  la diferencia es que trata de  [**Series de Netflix**](https://github.com/Naren-7/Netflix_Movies/blob/main/Data_Netflix/Best%20Shows%20Netflix.csv)
 
 ## Para llevar a cabo este proyecto, se ralizaran los siguientes pasos:
 
@@ -40,7 +35,7 @@
 
 5. **Visualización y análisis de los datos:** Se Crearan visualizaciones y se  analizara la información para responder a las preguntas y hipótesis formuladas.
 
-6. **Presentación y comunicación de los resultados:** Los resultados del análisis se  presentaran y comunicaran de manera clara y concisa, ya sea a través de un informe escrito o de una presentación visual.
+
 
 ## Como usar 
 
